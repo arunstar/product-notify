@@ -8,9 +8,9 @@ import time
 
 
 FileName = "/home/next/Downloads/bell-ringing-01.mp3"
-http_proxy  = "http://secureon:secure123@192.168.10.1:3128"
-https_proxy = "https://secureon:secure123@192.168.10.1:3128"
-ftp_proxy   = "ftp://secureon:secure123@192.168.10.1:3128"
+http_proxy  = "http://s*****on:s*****3@192.1xx.10.x:xxxx"
+https_proxy = "https://s*****on:s*****3@192.1xx.10.x:xxxx"
+ftp_proxy   = "ftp//s*****on:s*****3@192.1xx.10.x:xxxx"
 
 proxyDict = {
               "http"  : http_proxy,
